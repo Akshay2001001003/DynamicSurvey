@@ -15,7 +15,7 @@ Make sure you have the following software installed on your machine:
 
 1. **Clone the repository** to your local machine using the following command:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Akshay2001001003/DynamicSurvey.git
 2. **Navigate to the project directory:**
    ```bash
    cd dynamic-survey-project/server
