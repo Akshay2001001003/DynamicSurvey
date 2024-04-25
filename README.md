@@ -28,4 +28,4 @@ Make sure you have the following software installed on your machine:
 7. Start the express js. server
    ```bash
    npm start
-8. Run the index.html using goLive server or any other medium as per your prefrence
+8. Run the index.html using goLive server of vsCode or any other medium as per your prefrence
