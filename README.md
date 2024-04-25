@@ -22,7 +22,7 @@ Make sure you have the following software installed on your machine:
 3. Run the following command
    ```bash
    npm i
-4. Change the Postgresql configuration according to yours
+4. Change the Postgresql configuration according to yours in connection.js of dynamic-survey-project/server directory
 
 5. RUN the .sql file of dynamic-survey-project/server directory in sql shell or in query tools of tables in pg admin 4
 7. Start the express js. server
