@@ -24,8 +24,8 @@ Make sure you have the following software installed on your machine:
    npm i
 4. Change the Postgresql configuration according to yours
 
-5. RUN the .sql file in sql shell or in query tools of tables in pg admin 4
-6. Start the express js. server
+5. RUN the .sql file of dynamic-survey-project/server directory in sql shell or in query tools of tables in pg admin 4
+7. Start the express js. server
    ```bash
    npm start
-7. Run the index.html using goLive server or any other medium as per your prefrence
+8. Run the index.html using goLive server or any other medium as per your prefrence
